@@ -1,8 +1,22 @@
 body {
     font-family: Helvetica, Arial, Verdana;
+    background-color:beige;
 }
 
 img {
     width: 400px;
     height: auto;
+}
+
+h1 {
+    font-size: 36px;
+    color: goldenrod;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    color: rgb(70, 70, 70);
 }
